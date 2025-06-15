@@ -20,3 +20,7 @@ Follow these steps to set up and run the project locally on your Windows machine
 - Run the following command to install the dependencies listed in `requirements.txt`:
   ```bash
   pip install -r requirements.txt
+
+### 3. Running The Program
+- Find the **intersect.py** Program and open it in your Editor.
+- Run the program in the background.
