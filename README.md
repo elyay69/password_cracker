@@ -1,6 +1,4 @@
-# password_cracker
-
-# Project Name
+# Password Cracker
 
 **Legal Notice:**  
 The instagram account (`selimmerzgui02`) was used for testing and development purposes with explicit consent from the account holder. The developer has permission to use this account for testing, and all actions performed comply with GitHub's Terms of Service.  
